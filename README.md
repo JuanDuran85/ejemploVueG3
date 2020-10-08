@@ -1,4 +1,6 @@
-# primer_vue_g3
+# ejemploVueG3
+
+Primer ejemplo con vue cli generación 3 DL
 
 ## Project setup
 ```
@@ -22,3 +24,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
